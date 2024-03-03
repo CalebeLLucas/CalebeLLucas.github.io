@@ -1,0 +1,39 @@
+body{
+    background-color: #155bd5;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+
+}
+h1{
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+    text-decoration: underline;
+}
+p{
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+    font-family: sans-serif;
+}
+ul{
+
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+img{
+    border-radius: 20px;
+}
+.logo-texto{
+    align-items: center;
+    text-align: center;
+    margin-left: 50px;
+}
+.logo-tex{
+    font-size: 12px;
+    margin-top: 1px;
+}
+.logo{
+    margin-left: 0px;
+}
